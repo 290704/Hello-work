@@ -61,4 +61,8 @@ Provide guidance on optimizing content for search engines, including meta tags, 
 
 **Dependencies**
 
+link:https://ibm-cloud-blog.s3.che01.cloud-object-storage.appdomain.cloud/Test.html
+
+link:https://ibm-cloud-blog.s3.che01.cloud-object-storage.appdomain.cloud/LogIn.html
+
 
